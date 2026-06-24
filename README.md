@@ -4,7 +4,7 @@
 
 ## 🚀 What I Do
 
-- Built automation **eliminating 40 FTE-equivalent manual work**
+- Built automation **automating 40 percent of repetitive work**
 - Supported **10+ enterprise customers** (Paytm, Razorpay, Axifincorp)
 - Served as **L3 engineer** for data team debugging
 - Deployed **25+ production automation workflows**
@@ -25,7 +25,7 @@
 
 ## 📊 Highlights
 
-- 🤖 DevRev automation eliminating 40 FTE work
+- 🤖 DevRev automation automating 40 percent of repetitive work
 - 🏆 AWS Certified Cloud Practitioner
 - 💻 320+ LeetCode problems solved (max rating 1572)
 - 🎓 BE CSE, Chennai Institute of Technology (CGPA 8.44/10)
